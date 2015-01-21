@@ -1,0 +1,9 @@
+{
+  "name": "Pushtest",
+  "description": "--",
+  "version": "0.1",
+  "developer": {
+    "name": "nag"
+  },
+  "launch_path": "/index.html",
+}
